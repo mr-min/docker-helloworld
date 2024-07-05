@@ -5,7 +5,7 @@
 
 
 # Set the base image to Ubuntu
-FROM ubuntu
+FROM artifacthub.dev72.cvessel.jdcloud.com/jenkins/ubuntu:24.10
 
 # File Author / Maintainer
 MAINTAINER Karthik Gaekwad
