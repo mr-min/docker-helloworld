@@ -5,7 +5,7 @@
 
 
 # Set the base image to Ubuntu
-FROM artifacthub.dev72.cvessel.jdcloud.com/jenkins/ubuntu:24.10
+FROM artifacthub.dev72.cvessel.jdcloud.com/jenkins/ubuntu:v1
 
 # Install Nginx
 
